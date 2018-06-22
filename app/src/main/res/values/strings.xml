@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Train Driver</string>
+    <string name="btnCapture">Start Training</string>
+    <string name="instructions">CONDITIONS TO BE FOLLOWED:\n-Must look directly at the lens.\n-Make sure no head wear covers the face.\n-Be the only face in the photo.\n-Face the camera with eyes open.</string>
+    <string name="title_activity_pager">PagerActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title">Conditions To Be Followed</string>
+    <string name="description">Must look directly at the lens</string>
+    <string name="description1">Make Sure no head wear covers the face</string>
+    <integer name="slide_animation_duration">300</integer>
+</resources>
